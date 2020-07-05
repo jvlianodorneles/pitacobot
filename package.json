@@ -1,0 +1,19 @@
+{
+  "name": "pitacobot",
+  "version": "1.0.0",
+  "description": "Use este bot para avaliar coletivamente as sugestões feitas no seu grupo.",
+  "repository": "github:jvlianodorneles/pitacobot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poll"
+  ],
+  "author": "jvliandorneles",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
