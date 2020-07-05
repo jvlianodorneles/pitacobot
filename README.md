@@ -7,6 +7,7 @@ How it works: promote [@pitacobot](https://t.me/pitacobot) as an administrator i
 `#suggestion`, `#question`, `#poll`, `#vote`
 
 ![](https://telegra.ph/file/20f62670707e10d9be58b.png)
+
 *Nominal poll.*
 
 If you want to start an anonymous poll, instead of the hashtag start the triggers with the exclamation point, as shown below.
@@ -14,6 +15,7 @@ If you want to start an anonymous poll, instead of the hashtag start the trigger
 `!suggestion`, `!question`, `!poll`, `!vote`
 
 ![](https://telegra.ph/file/2fdedba43efc84a435dbe.png)
+
 *Anonymous poll.*
 
 ⚠️ Attention: the default behavior of the bot is to delete the message that generated the poll. If you don't want this to happen, disable this permission in your group's settings.
@@ -27,6 +29,7 @@ Como ele funciona: promova o [@pitacobot](https://t.me/pitacobot) a administrado
 `#sugestão`, `#pergunta`, `#enquete`, `#votação`
 
 ![](https://telegra.ph/file/df69c3400bb8e554e3c28.png)
+
 *Enquete nominal.*
 
 Se você quiser iniciar uma enquete **anônima**, ao invés da hashtag inicie os gatilhos com o ponto de exclamação, como mostrado abaixo.
@@ -34,6 +37,7 @@ Se você quiser iniciar uma enquete **anônima**, ao invés da hashtag inicie os
 `!sugestão`, `!pergunta`, `!enquete`, `!votação`
 
 ![](https://telegra.ph/file/6a632939c92133ab75577.png)
+
 *Enquete anônima.*
 
 ⚠️ Atenção: o comportamento padrão do bot é apagar a mensagem que gerou a enquete. Caso você não queira que isso ocorra, desative essa permissão nas configurações do seu grupo.
@@ -43,3 +47,5 @@ Se você quiser iniciar uma enquete **anônima**, ao invés da hashtag inicie os
 🇺🇸 ️If you liked this bot, how about [buying me a coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AUJW6TVC8KVTQ) (PayPal)?
 
 🇧🇷 ️Se você gostou deste bot, que tal me [pagar um café](https://picpay.me/jvlianodorneles) (PicPay)?
+
+![](https://nodejs.org/static/images/logos/nodejs-new-black.svg)
