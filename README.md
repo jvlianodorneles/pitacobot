@@ -44,6 +44,6 @@ Se você quiser iniciar uma enquete **anônima**, ao invés da hashtag inicie os
 
 * * * * *
 
-🇺🇸 ️If you liked this bot, how about [buying me a coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AUJW6TVC8KVTQ) (PayPal)?
+🇺🇸 ️If you liked this bot, how about [to buy me a coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AUJW6TVC8KVTQ) (PayPal)?
 
-🇧🇷 ️Se você gostou deste bot, que tal me [pagar um café](https://picpay.me/jvlianodorneles) (PicPay)?
+🇧🇷 ️Se você gostou deste bot, que tal [me pagar um café](https://picpay.me/jvlianodorneles) (PicPay)?
