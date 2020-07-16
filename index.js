@@ -47,7 +47,7 @@ bot.hears(regex1, ctx => {
     first_name + ' ➡️ ' + ' \"' + message + '\"',
     ['👍', '👎'],
     { is_anonymous: false }
-    )
+    ).then((m) => { bot.telegram.pinChatMessage(m.chat.id, m.message_id) })
   bot.telegram.deleteMessage(chat_id, message_id)
 })
 
@@ -63,8 +63,9 @@ bot.hears(regex2, ctx => {
     first_name + ' ➡️ ' + ' \"' + message + '\"',
     ['👍', '👎'],
     { is_anonymous: true }
-    )
-    bot.telegram.deleteMessage(chat_id, message_id)
+    ).then((m) => { bot.telegram.pinChatMessage(m.chat.id, m.message_id) })
+
+  bot.telegram.deleteMessage(chat_id, message_id)
 })
 
 bot.launch();
