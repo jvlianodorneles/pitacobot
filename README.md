@@ -18,7 +18,7 @@ If you want to start an anonymous poll, instead of the hashtag start the trigger
 
 *Anonymous poll.*
 
-⚠️ Attention: the default behavior of the bot is to delete the message that generated the poll. If you don't want this to happen, disable this permission in your group's settings.
+⚠️ Attention: the default behavior of the bot is to delete the message that generated the poll and fix the poll. If you don't want this to happen, disable these bot permissions in the settings in your group.
 
 * * * * *
 
@@ -40,7 +40,7 @@ Se você quiser iniciar uma enquete **anônima**, ao invés da hashtag inicie os
 
 *Enquete anônima.*
 
-⚠️ Atenção: o comportamento padrão do bot é apagar a mensagem que gerou a enquete. Caso você não queira que isso ocorra, desative essa permissão nas configurações do seu grupo.
+⚠️ Atenção: o comportamento padrão do bot é apagar a mensagem que gerou a enquete e fixar a enquete. Caso você não queira que isso ocorra, desative essas permissões do bot nas configurações no seu grupo.
 
 * * * * *
 
